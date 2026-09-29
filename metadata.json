@@ -1,0 +1,6 @@
+{
+  "name": "ScholarMatch",
+  "description": "Personalized student scholarship navigator matching academic profiles to eligible awards, benefits, deadlines, and application requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
